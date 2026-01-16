@@ -30,7 +30,7 @@ function Navbar({
         <div className="flex items-center gap-2">
           {logo ?? (
             <div className="bg-muted text-muted-foreground flex size-8 items-center justify-center rounded-md text-xs font-medium">
-              L
+              CUI
             </div>
           )}
           {!onlyLogo && (

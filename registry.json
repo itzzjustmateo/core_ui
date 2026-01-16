@@ -1,0 +1,19 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry.json",
+  "name": "core-ui",
+  "homepage": "https://github.com/itzzjustmateo/core_ui",
+  "items": [
+    {
+      "name": "navbar",
+      "type": "registry:ui",
+      "title": "Navbar",
+      "description": "A responsive navbar component.",
+      "files": [
+        {
+          "path": "registry/default/ui/navbar.tsx",
+          "type": "registry:ui"
+        }
+      ]
+    }
+  ]
+}
